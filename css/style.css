@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(161, 199, 233);
+}
+div{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.container{
+    background-color: red;
+
+}
+.row{
+    background-color: blue;
+
+}
